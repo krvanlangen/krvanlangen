@@ -3,6 +3,7 @@
 ---
 
 I'm a senior at the University of Iowa studying Finance, Business Analytics, and Sport and Recreation Management 👩‍🎓
+![University of Iowa badge](https://img.shields.io/static/v1?message=Hawks!!&labelColor=000000&color=FFCD00&label=Go&style=for-the-badge)
 
 ---
 
