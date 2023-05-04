@@ -2,11 +2,11 @@
 
 ---
 
-### I'm a senior at the University of Iowa studying Finance, Business Analytics, and Sport and Recreation Management
+I'm a senior at the University of Iowa studying Finance, Business Analytics, and Sport and Recreation Management 👩‍🎓
 
 ---
 
-## Following graduation, I will be moving to Kansas City, MO to work as a Marketing and Analytics Seasonal Assistant for the Kansas City Chiefs!
+Following graduation, I will be moving to Kansas City, MO to work as a Marketing and Analytics Seasonal Assistant for the Kansas City Chiefs! 🏈
 
 ![Iowa City badge](https://img.shields.io/static/v1?message=IA&logo=google-maps&labelColor=ffcd00&color=000000&logoColor=black&label=Iowa%20City&style=for-the-badge)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kayla-van-langen/) 
