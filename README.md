@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hi, I'm Kayla! :wave:
 
-<!--
-**krvanlangen/krvanlangen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### I'm a senior at the University of Iowa studying Finance, Business Analytics, and Sport and Recreation Management
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Following graduation, I will be moving to Kansas City, MO to work as a Marketing and Analytics Seasonal Assistant for the Kansas City Chiefs!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kayla-van-langen/) 
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://kaylavanlangen.me/)
+![Iowa City badge](https://img.shields.io/static/v1?message=IA&logo=google-maps&labelColor=ffcd00&color=000000&logoColor=black&label=Iowa%20City&style=for-the-badge)
+
+---  
+
+### Current skills
+![R badge](https://img.shields.io/static/v1?message=R%20Programming&logo=R&labelColor=276DC3&color=276DC3&logoColor=white&label=%20&style=for-the-badge) ![R Studio badge](https://img.shields.io/static/v1?message=R%20Studio&logo=RStudio&labelColor=75AADB&color=75AADB&logoColor=white&label=%20&style=for-the-badge) ![Microsoft Azure badge](https://img.shields.io/static/v1?message=Azure&logo=Microsoft%20Azure&labelColor=0078D4&color=0078D4&logoColor=white&label=%20&style=for-the-badge) 
+
+
